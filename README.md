@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TANMAY DAS. I'm student. My home town is in Chattogram.
+- 👋 Hi, I’m TANMAY DAS. I'm a student. My home town is in Chattogram.
 - 👀 I’m interested in drawing and eating.
 - 🌱 I’m currently studying in BSc. in Computer Science and Engineering at USTC. My career goal is Data Science and Technology.
 - 📫 Communicate with me through
