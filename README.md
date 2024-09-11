@@ -5,7 +5,7 @@
  LinkedIn id: https://www.linkedin.com/in/tanmay-das-td-7724bb264
  email: tanmaydas304@gmail.com
  instragram: https://www.instagram.com/tanmaybokahomosapiens?igsh=MWgxMGJ3dHlqMnV0MQ==
- facebook: 
+ facebook: https://www.facebook.com/profile.php?id=100011049974320&mibextid=ZbWKwL
 - ⚡ Fun fact: I don't know how to laugh,,,
 
 <!---
